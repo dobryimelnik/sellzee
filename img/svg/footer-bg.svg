@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1600px" height="432px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1600 432"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#000848}
+    .fil4 {fill:url(#id0)}
+    .fil1 {fill:url(#id1)}
+    .fil3 {fill:url(#id2)}
+    .fil2 {fill:url(#id3)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="139" y1="396.615" x2="1595.984" y2="277.617">
+   <stop offset="0" style="stop-opacity:1; stop-color:#00053C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#010C64"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="415.985" y1="375.891" x2="1592.735" y2="79.155">
+   <stop offset="0" style="stop-opacity:1; stop-color:#000423"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#050A59"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="2.813" y1="370.086" x2="1189.569" y2="427.095">
+   <stop offset="0" style="stop-opacity:1; stop-color:#000848"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1F0977"/>
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="1544.743" y1="400.552" x2="-215.671" y2="-133.549">
+   <stop offset="0" style="stop-opacity:1; stop-color:#050B42"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#05106B"/>
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2277512892432">
+   <rect id="Rectangle_x0020_78.svg" class="fil0" x="0.049" y="-0.233" width="1600" height="432"/>
+   <polygon id="Rectangle_x0020_82.svg" class="fil1" points="1600.288,254 629.785,254 629.785,425.119 1600.288,425.119 "/>
+   <polygon id="Rectangle_x0020_81.svg" class="fil2" points="0.024,139 1600.05,433.541 1600.05,431.366 0.024,431.366 "/>
+   <polygon id="Rectangle_x0020_79.svg" class="fil3" points="1.99,224 1115.036,427.096 1115.036,425.596 1.99,425.596 "/>
+   <polygon id="Rectangle_x0020_80.svg" class="fil4" points="1596.066,323.944 402,427.5 402,426.735 1596.066,426.735 "/>
+  </g>
+ </g>
+</svg>
